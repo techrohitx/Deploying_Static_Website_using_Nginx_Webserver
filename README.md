@@ -45,7 +45,7 @@ sudo systemctl start nginx
 sudo systemctl enable nginx
 sudo systemctl status nginx
 ```
-![Reference Image](/img/S-3.png)
+![Reference Image](/img/s-3.png)
 
 ### **Step 4: Access the website** :globe_with_meridians:
 
